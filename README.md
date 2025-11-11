@@ -56,12 +56,14 @@ Work Plan:
       * Daughter can log in remotely to adjust settings or check-in.
       * No hidden menus, minimal steps, and no unnecessary app notifications.
 
-Roles and Responsibilities:
+* Roles and Responsibilities:
 1. Mohamed Hesham Elsaid Alagder (Ux Process)
 2- Mohab Mohamed Fawzy Mohamed (Ui Design)
 3- Nabil Gehad
 4- Mohamed Awad
 5- Ahmed Eletrby
+
+* KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
 
 Instructor:
 Eng: Mohamed Kamar
@@ -72,3 +74,5 @@ https://drive.google.com/drive/folders/1bt9dqZOF34zRcWJ1eHPVM2ovI69-0WtE?usp=sha
 
 License:
 The project is licensed under The Depi organization.
+
+* KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
