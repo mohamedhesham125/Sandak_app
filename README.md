@@ -63,5 +63,12 @@ Roles and Responsibilities:
 4- Mohamed Awad
 5- Ahmed Eletrby
 
+Instructor:
+Eng: Mohamed Kamar
+
+Project Files:
 You Can Know More About The Design From the Link Below:
 https://drive.google.com/drive/folders/1bt9dqZOF34zRcWJ1eHPVM2ovI69-0WtE?usp=sharing
+
+License:
+The project is licensed under The Depi organization.
