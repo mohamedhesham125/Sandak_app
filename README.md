@@ -64,6 +64,8 @@ Eng: Mohamed Kamar
 Project Files:
 You Can Know More About The Design From the Link Below:
 https://drive.google.com/drive/folders/1bt9dqZOF34zRcWJ1eHPVM2ovI69-0WtE?usp=sharing
+And The Figma Design File:
+https://www.figma.com/design/u2T6F6MPRL5uhf7vROt50A/Sanadak-App?node-id=94-1051&p=f&t=lwvJKXatS5jyjaBf-0
 
 License:
 The project is licensed under The Depi organization.
