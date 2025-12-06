@@ -10,8 +10,6 @@ Team Leader: Mohamed Hesham Elsaid Alagder
 Team Members:  
 1- Mohamed Hesham Elsaid Alagder
 2- Mohab Mohamed Fawzy Mohamed
-3- Nabil Gehad
-4- Ahmed Eletrby
 
 Work Plan:
 1. Research & Analysis:
@@ -53,8 +51,6 @@ Pain Points:
 * Roles and Responsibilities:
 1. Mohamed Hesham Elsaid Alagder (Ux Process)
 2- Mohab Mohamed Fawzy Mohamed (Ui Design)
-3- Nabil Gehad
-4- Ahmed Eletrby
 
 * KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
 
